@@ -31,7 +31,8 @@ h1 {
 
 h2 {
   font-weight: 100;
-  color: #FF797D; }
+  color: #FF797D;
+  text-align: center; }
 
 .heading {
   margin: auto;
